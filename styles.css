@@ -1,0 +1,49 @@
+body {
+    background: url(doctor.jpg) no-repeat;
+    background-size: 100% 100%;
+
+}
+/* aqui le doy color rojo al h1 */
+h1 {
+    color: red;
+}
+/* aqui le doy color rojo al h1 */
+iframe {
+    margin: 0 auto;
+}
+
+.divimage {
+    display: flex;
+    justify-content: center;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+p{
+    font-family: 'Bebas Neue', cursive;
+}
+h2{
+    color: red;
+}
+h3{
+    color: red;
+}
+h4{
+    color: blue;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+}
+h3{
+    font-family: 'Bebas Neue', cursive;
+}
+
+h4{
+    font-family: 'Bebas Neue', cursive;
+}
